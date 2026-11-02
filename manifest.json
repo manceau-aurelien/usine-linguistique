@@ -1,0 +1,26 @@
+{
+  "name": "L'Usine Linguistique • English Factory",
+  "short_name": "EnglishFactory",
+  "description": "Application d'apprentissage incrémental de l'anglais basée sur le modèle Monde Linguistique (9 Paliers, 25 Fiches, Boîtes de Vocabulaire et Laboratoire Sonore)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
